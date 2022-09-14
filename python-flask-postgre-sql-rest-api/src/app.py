@@ -29,5 +29,3 @@ if __name__ == '__main__':
     app.register_error_handler(404, page_not_found)
 
     app.run()
-
-# https://www.youtube.com/watch?v=riijt-xcqYI
